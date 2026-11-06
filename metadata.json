@@ -1,0 +1,6 @@
+{
+  "name": "LunaTune",
+  "description": "Anime-themed music player, audio library, and Pomodoro companion with character Luna",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

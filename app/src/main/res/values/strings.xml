@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LunaTune</string>
+    <string name="app_tagline">Listen • Focus • Be Happy</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_playlist">Playlist</string>
+    <string name="nav_pomodoro">Pomodoro</string>
+    <string name="nav_profile">Profil</string>
+</resources>
